@@ -2,8 +2,8 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Montse 
- *  
+ * @author - Itxaso 
+ *  @version Version2  
  */
 public class Estudiante
 {
