@@ -3,7 +3,7 @@
  *  Descripción de un estudiante
  * 
  * @author - Itxaso 
- *  @version Version2  
+ *  @version Version1 
  */
 public class Estudiante
 {
